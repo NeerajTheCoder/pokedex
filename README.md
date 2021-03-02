@@ -1,6 +1,4 @@
-# pokedex
-Now, This project intended to create a basic pokedex.
-Further updates will be coming soon.
-
+# Sample pocodex app
+This project was bootstrapped with Create React Native App.
 
 
